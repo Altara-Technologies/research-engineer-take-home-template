@@ -5,7 +5,11 @@ This repository contains a tiny Python project that powers a simple "AI Snake Ar
 The starter code is intentionally messy. Your task is to:
 1. Refactor the code and make it feel like something you would actually want to build on. This includes cleaning up the architecture, fixing bugs, improving the agent interface, and making the codebase more maintainable and extensible.
 2. Implement at least one new AI agent strategy that demonstrates more sophisticated decision-making than the existing `RandomAgent` and `GreedyAgent`. Your agent should be well-integrated with the refactored codebase and show thoughtful game-playing logic. We encourage you to be creative with your agent strategies.
-3. Write a short write-up describing how you would evaluate this system and how you'd imagine growing this system into something a bit more realistic or scalable down the road.
+3. Write a short write-up describing the following. We're looking to better understand from this write-up how you reason about and evaluate systems at scale.
+    1. How would you evaluate this system?
+    2. If you grew this system into something more realistic or scalable down the road, how would you think about architecting and scaling?
+    3. What are some more complex things you would try, given more time?
+
 
 ## Game Overview
 
