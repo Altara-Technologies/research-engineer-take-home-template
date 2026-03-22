@@ -9,6 +9,8 @@ The starter code is intentionally messy. Your task is to:
     1. How would you evaluate this system?
     2. If you grew this system into something more realistic or scalable down the road, how would you think about architecting and scaling?
     3. What are some more complex things you would try, given more time?
+    4. If you used any AI tools while working on this project, how did you collaborate with AI? What tools did you use?
+    5. How much time did you spend in total?
 
 
 ## Game Overview
